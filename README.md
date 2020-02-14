@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Platform Tutorial
 
 Well hi there! This repository holds the code and script
@@ -57,3 +58,6 @@ And as always, thanks so much for your support and letting
 us do what we love!
 
 <3 Your friends at SymfonyCasts
+=======
+# api_platform
+>>>>>>> a2b67c99b3be81f8db2b9f748b296bdb786aead2
