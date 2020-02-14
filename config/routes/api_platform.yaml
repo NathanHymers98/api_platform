@@ -1,4 +1,4 @@
 api_platform:
     resource: .
-    type: api_platform
+    type: api_platform # This line lets api_platform to dynamically add any routes that it wants. It does this by looking at all the classes that have the @ApiResource annotation
     prefix: /api
